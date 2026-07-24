@@ -10,6 +10,6 @@ graph TD
 
 
 ### About me
-![This is an alt text.](/image/Swamp-Deer-shutterstock_2596398339.jpg "This is a sample image.")
+![This is an alt text.](/Swamp-Deer-shutterstock_2596398339.jpg "test")
 
 Hi im marcie im am gona make a cool website for my strange ideas.
