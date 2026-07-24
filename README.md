@@ -1,4 +1,4 @@
-# MARCIE'S AWSOME AND COOL WEBSITE
+# MARCIE'S AWSOME AND COOL WEBSITE!!!
 
 ```mermaid
 graph TD
@@ -9,7 +9,7 @@ graph TD
 
 
 
-### About me
+## About Me!
 ![This is an alt text.](/14711060454_7550fdeb9b_b.jpg "test")
 
 Hi im marcie im am gona make a cool website for my strange ideas.
