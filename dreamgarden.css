@@ -1,4 +1,32 @@
-:root{
-    background-color: rgb(232, 203, 255);
-    font-family: 'Rubik', sans-serif;
+body {
+  background-color: rgb(232, 203, 255);
+  font-family: "Jersey 15", "Rubik", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12pt;
+}
+
+/* Text Content */
+.text-content {
+  font-size: 1em;
+}
+
+.text-content > h1 {
+  text-align: center;
+  width: 100%;
+  font-size: 3.5em;
+  font-weight: 300;
+}
+
+.text-content > p,
+.text-content > h2 {
+  font-size: 1.5em;
+}
+
+/* Header */
+.header {
+}
+
+.header > a {
+  font-family: "Jersey 15", "Rubik", sans-serif;
 }
