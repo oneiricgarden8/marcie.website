@@ -30,3 +30,11 @@ body {
 .header > a {
   font-family: "Jersey 15", "Rubik", sans-serif;
 }
+
+a {
+  color: rgb(105, 8, 185);
+}
+
+a:hover {
+  color: rgb(219, 77, 255);
+}
