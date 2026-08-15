@@ -38,3 +38,21 @@ a {
 a:hover {
   color: rgb(219, 77, 255);
 }
+
+main {
+    margin: 0 200px;
+}
+
+* {
+    text-align: center;
+}
+p {
+    text-transform: capitalize;
+}
+
+.main-content {
+    display: inline-flex;
+}
+img {
+    max-width: 30vw;
+}
