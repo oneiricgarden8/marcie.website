@@ -1,42 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+15&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+:root {
+    font-family: "Jersey 15", "Rubik", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12pt;
+}
+
 body {
-  background-color: rgb(232, 203, 255);
-  font-family: "Jersey 15", "Rubik", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 12pt;
+    background-color: rgb(232, 203, 255);
 }
 
 /* Text Content */
 .text-content {
-  font-size: 1em;
+    font-size: 1em;
 }
 
-.text-content > h1 {
-  text-align: center;
-  width: 100%;
-  font-size: 3.5em;
-  font-weight: 300;
+.text-content h1 {
+    text-align: center;
+    width: 100%;
+    font-size: 3.5em;
+    font-weight: 300;
 }
 
-.text-content > p,
-.text-content > h2 {
-  font-size: 1.5em;
+.text-content p,
+.text-content h2 {
+    font-size: 1.5em;
 }
 
 /* Header */
 .header {
 }
 
-.header > a {
-  font-family: "Jersey 15", "Rubik", sans-serif;
+.header a {
+    font-family: "Jersey 15", "Rubik", sans-serif;
 }
 
 a {
-  color: rgb(105, 8, 185);
+    color: rgb(105, 8, 185);
 }
 
 a:hover {
-  color: rgb(219, 77, 255);
+    color: rgb(219, 77, 255);
 }
 
 main {
@@ -52,6 +57,7 @@ p {
 
 .main-content {
     display: inline-flex;
+    gap: 40px;
 }
 img {
     max-width: 30vw;
