@@ -11,7 +11,7 @@ graph TD
 
 ## About Me!
 ###### picture of me
-![This is an alt text.](/marcie's-picture.jpg "test")
+![its a picture of a deer](/marcie's-picture.jpg "test")
 
 "Hi im marcie im am gona make a cool website for my strange ideas."
 -Saturn (Not Marcie) (but yeah true)
